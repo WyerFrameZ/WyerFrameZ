@@ -15,8 +15,12 @@
 <img src="cpp.svg" width="100" alt="Programming Languages" />
 
 <h3 align="left">Frontend:</h3>
-<img src="html.svg" width="100" alt="Programming Languages" />
-<img src="css.svg" width="100" alt="Programming Languages" />
-<img src="js.svg" width="100" alt="Programming Languages" />
+<h3 align="center">Frontend:</h3>
+<p align="center">
+  <img src="html.svg" width="100" alt="HTML" />
+  <img src="css.svg" width="100" alt="CSS" />
+  <img src="js.svg" width="100" alt="JavaScript" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
