@@ -15,7 +15,8 @@
 
 <p align="center">
   <img src="cpp.svg" width="100" alt="HTML" />
-   <img src="cs.svg" width="85" alt="JavaScript" />
+   <img src="cs.svg" width="100
+     " alt="JavaScript" />
   <img src="bash.svg" width="100" alt="CSS" />
   <img src="js.svg" width="100" alt="JavaScript" />
 </p>
