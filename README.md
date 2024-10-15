@@ -14,5 +14,9 @@
 <h3 align="left">Programming Languages:</h3>
 <img src="cpp.svg" width="100" alt="Programming Languages" />
 
+<h3 align="left">Frontend:</h3>
+<img src="html.svg" width="100" alt="Programming Languages" />
+<img src="css.svg" width="100" alt="Programming Languages" />
+<img src="js.svg" width="100" alt="Programming Languages" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
