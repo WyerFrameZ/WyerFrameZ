@@ -12,15 +12,35 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<img src="cpp.svg" width="100" alt="Programming Languages" />
+
+<p align="center">
+  <img src="cpp.svg" width="100" alt="HTML" />
+  <img src="bash.svg" width="100" alt="CSS" />
+  <img src="js.svg" width="100" alt="JavaScript" />
+</p>
 
 <h3 align="left">Frontend:</h3>
-<h3 align="center">Frontend:</h3>
+
 <p align="center">
   <img src="html.svg" width="100" alt="HTML" />
   <img src="css.svg" width="100" alt="CSS" />
   <img src="js.svg" width="100" alt="JavaScript" />
 </p>
 
+<h3 align="left">Backend:</h3>
+
+<p align="center">
+  <img src="node.svg" width="100" alt="HTML" />
+  <img src="css.svg" width="100" alt="CSS" />
+  <img src="express.svg" width="100" alt="JavaScript" />
+</p>
+
+<h3 align="left">Linux Distros</h3>
+
+<p align="center">
+  <img src="mint.svg" width="100" alt="HTML" />
+  <img src="debian.svg" width="100" alt="CSS" />
+  <img src="rasperry.svg" width="100" alt="JavaScript" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
