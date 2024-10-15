@@ -15,6 +15,7 @@
 
 <p align="center">
   <img src="cpp.svg" width="100" alt="HTML" />
+   <img src="cs.svg" width="100" alt="JavaScript" />
   <img src="bash.svg" width="100" alt="CSS" />
   <img src="js.svg" width="100" alt="JavaScript" />
 </p>
@@ -30,9 +31,9 @@
 <h3 align="left">Backend:</h3>
 
 <p align="center">
-  <img src="node.svg" width="100" alt="HTML" />
-  <img src="css.svg" width="100" alt="CSS" />
-  <img src="express.svg" width="100" alt="JavaScript" />
+  <img src="nodejs.svg" width="100" alt="HTML" />
+  <img src="express.svg" width="100" alt="CSS" />
+  <img src="php.svg" width="100" alt="JavaScript" />
 </p>
 
 <h3 align="left">Linux Distros</h3>
