@@ -17,31 +17,31 @@
   <img src="cpp.svg" width="50" alt="HTML" />
    <img src="cs.svg" width="50" alt="JavaScript" />
   <img src="bash.svg" width="50" alt="CSS" />
-  <img src="js.svg" width="50" alt="JavaScript" />
+ 
 </p>
 
 <h3 align="left">Frontend:</h3>
 
-<p align="center">
-  <img src="html.svg" width="100" alt="HTML" />
-  <img src="css.svg" width="100" alt="CSS" />
-  <img src="js.svg" width="100" alt="JavaScript" />
+<p align="left">
+  <img src="html.svg" width="50" alt="HTML" />
+  <img src="css.svg" width="50" alt="CSS" />
+  <img src="js.svg" width="50" alt="JavaScript" />
 </p>
 
 <h3 align="left">Backend:</h3>
 
-<p align="center">
-  <img src="nodejs.svg" width="100" alt="HTML" />
-  <img src="express.svg" width="100" alt="CSS" />
-  <img src="php.svg" width="100" alt="JavaScript" />
+<p align="left">
+  <img src="nodejs.svg" width="50" alt="HTML" />
+  <img src="express.svg" width="50" alt="CSS" />
+  <img src="php.svg" width="50" alt="JavaScript" />
 </p>
 
 <h3 align="left">Linux Distros</h3>
 
-<p align="center">
-  <img src="mint.svg" width="100" alt="HTML" />
-  <img src="debian.svg" width="100" alt="CSS" />
-  <img src="rasperry.svg" width="100" alt="JavaScript" />
+<p align="left">
+  <img src="mint.svg" width="50" alt="HTML" />
+  <img src="debian.svg" width="50" alt="CSS" />
+  <img src="rasperry.svg" width="50" alt="JavaScript" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
