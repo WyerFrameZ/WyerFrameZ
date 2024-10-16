@@ -3,22 +3,21 @@
 
 - 🔭 I’m currently working on **Discord succesor**
 
-- How to reach me **wojdado@gmail.com**
+- ⚡ How to reach me **wojdado@gmail.com**
 
 - ⚡ My discord profile [https://kencarson.pl/card-main.html](https://kencarson.pl/card-main.html)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
 <h3 align="left">Programming Languages:</h3>
 
-<p align="center">
-  <img src="cpp.svg" width="100" alt="HTML" />
-   <img src="cs.svg" width="100
-     " alt="JavaScript" />
-  <img src="bash.svg" width="100" alt="CSS" />
-  <img src="js.svg" width="100" alt="JavaScript" />
+<p align="left">
+  <img src="cpp.svg" width="50" alt="HTML" />
+   <img src="cs.svg" width="50" alt="JavaScript" />
+  <img src="bash.svg" width="50" alt="CSS" />
+  <img src="js.svg" width="50" alt="JavaScript" />
 </p>
 
 <h3 align="left">Frontend:</h3>
