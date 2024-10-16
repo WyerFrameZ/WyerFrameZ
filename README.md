@@ -5,7 +5,7 @@
 
 - ⚡ How to reach me **wojdado@gmail.com**
 
-- ⚡ My discord profile [https://kencarson.pl/card-main.html](https://kencarson.pl/card-main.html)
+- ⚡ My discord profile [Profile](https://kencarson.pl/card-main/index.html)
 
 
 <p align="left">
