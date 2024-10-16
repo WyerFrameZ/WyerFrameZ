@@ -14,7 +14,7 @@
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
-  <img src="cpp.svg" width="50" alt="HTML" />
+  <img src="cpp.svg" width="40" alt="HTML" />
    <img src="cs.svg" width="50" alt="JavaScript" />
   <img src="bash.svg" width="50" alt="CSS" />
  
