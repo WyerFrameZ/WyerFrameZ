@@ -43,5 +43,6 @@
   <img src="debian.svg" width="50" alt="CSS" />
   <img src="rasperry.svg" width="50" alt="JavaScript" />
 </p>
+s
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
