@@ -7,7 +7,7 @@
 
 - ⚡ My discord profile [Profile](https://kencarson.pl/card-main/index.html)
 
-
+<hr>
 <p align="left">
 </p>
 
