@@ -34,6 +34,7 @@
   <img src="nodejs.svg" width="50" alt="HTML" />
   <img src="express.svg" width="50" alt="CSS" />
   <img src="php.svg" width="50" alt="JavaScript" />
+  <img src="ruby.svg" width="50" alt="hej" />
 </p>
 
 <h3 align="left">Linux Distros</h3>
