@@ -31,10 +31,10 @@
 <h3 align="left">Backend:</h3>
 
 <p align="left">
+  <img src="ruby-svgrepo-com.svg" width="50" alt="hej" />
   <img src="nodejs.svg" width="50" alt="HTML" />
   <img src="express.svg" width="50" alt="CSS" />
   <img src="php.svg" width="50" alt="JavaScript" />
-  <img src="ruby-svgrepo-com.svg" width="50" alt="hej" />
 </p>
 
 <h3 align="left">Linux Distros</h3>
