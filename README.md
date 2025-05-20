@@ -25,7 +25,7 @@
 <p align="left">
   <img src="html.svg" width="50" alt="HTML" />
   <img src="css.svg" width="50" alt="CSS" />
-  <img src="scss.svg" width="50" alt="SCSS" />
+  <img src="scss-svgrepo-com.svg" width="50" alt="SCSS" />
   <img src="js.svg" width="50" alt="JavaScript" />
 </p>
 
