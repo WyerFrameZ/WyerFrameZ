@@ -46,5 +46,5 @@
   <img src="rasperry.svg" width="50" alt="JavaScript" />
 </p>
 
-<img src="spearator.png" width="50" alt="spearator" />
+<img src="separator.png" width="50" alt="spearator" />
 # <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyerframez&show_icons=true&locale=en" alt="wyerframez" /></p>
