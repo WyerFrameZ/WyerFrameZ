@@ -1,3 +1,4 @@
+<img src="separator2.png" alt="spearator" />
 <h1 align="center">Hi 👋, I'm WyerFrameZ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyerframez&label=Profile%20views&color=0e75b6&style=plastic" alt="wyerframez" /> </p>
 
