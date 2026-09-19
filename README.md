@@ -47,4 +47,3 @@
   <img src="rasperry.svg" width="50" alt="JavaScript" />
 </p>
 
-<img src="separator.png" alt="spearator" />
