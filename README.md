@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm WyerFrameZ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyerframez&label=Profile%20views&color=0e75b6&style=plastic" alt="wyerframez" /> </p>
 
-- 🔭 I’m currently working on **Discord succesor**
+- 🔭 I’m currently working on **Custom devices**
 
 - ⚡ How to reach me **wojdado@gmail.com**
 
